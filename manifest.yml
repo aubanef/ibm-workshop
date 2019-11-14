@@ -1,0 +1,5 @@
+applications:
+ - name: dreamy-thompson
+   memory: 256M
+   host: dreamy-thompson
+   buildpack: staticfile_buildpack
